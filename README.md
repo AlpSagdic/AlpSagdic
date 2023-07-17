@@ -14,7 +14,7 @@ I hope you have a good time.
   + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (%0)</a>
   + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (%50)</a>
   
-  - 🖥️ I use these languages:
+- 🖥️ I use these languages:
   + Python, Flask, HTML, CSS, SQL
   + And I'm currently learning these: JavaScript, React
     
