@@ -10,7 +10,7 @@ I hope you have a good time.
   + <a href="https://www.udemy.com/course/100-days-of-code/">100 Days Of Code/Python Bootcamp (%100)</a>
 
 - 🌱 I’m currently learning:
-  + <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development Bootcamp (%45)</a>
+  + <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development Bootcamp (%65)</a>
   + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (%1)</a>
   + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (%50)</a>
   
