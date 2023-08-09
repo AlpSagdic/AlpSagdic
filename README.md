@@ -16,7 +16,7 @@ I hope you have a good time.
   
 - 🖥️ I use these technologies:
   + Python, Flask, HTML, CSS, SQL
-  + And I'm currently learning these: JavaScript, React, Node, Web3
+  + And I'm currently learning these: JavaScript, MongoDB, Express, React, Node, Web3
     
 - 🐦 <a href="https://twitter.com/AlpSgdc">You can reach me here (Twitter)</a>
 - 📝 <a href="https://www.linkedin.com/in/alp-eren-sağdıç-874987276/">Curriculum vitae (LinkedIn) (Currently not up to date)</a>
