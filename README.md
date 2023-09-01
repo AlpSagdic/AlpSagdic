@@ -12,7 +12,8 @@ I hope you have a good time.
   + <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/">MERN Stack Web Development (%100)</a>
 
 - 🌱 I’m currently learning:
-  + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (%75)</a>
+  + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (%85)</a>
+  + <a href="https://www.udemy.com/course/seo-get-to-number1-in-google-search/">Comprehensive SEO Training</a>
   + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (%1)</a>
   + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (%50)</a>
   
