@@ -6,16 +6,16 @@ I hope you have a good time.
 
 
 - ✅ Trainings I have completed:
-  + <a href="https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/">Python Course (%100)</a>
-  + <a href="https://www.udemy.com/course/100-days-of-code/">100 Days Of Code/Python Bootcamp (%100)</a>
-  + <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development Bootcamp (%100)</a>
-  + <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/">MERN Stack Web Development (%100)</a>
+  + <a href="https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/">Python Course (100%)</a>
+  + <a href="https://www.udemy.com/course/100-days-of-code/">100 Days Of Code/Python Bootcamp (100%)</a>
+  + <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development Bootcamp (100%)</a>
+  + <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/">MERN Stack Web Development (100%)</a>
+  + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (100%)</a>
 
 - 🌱 I’m currently learning:
-  + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (%85)</a>
-  + <a href="https://www.udemy.com/course/seo-get-to-number1-in-google-search/">Comprehensive SEO Training</a>
-  + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (%1)</a>
-  + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (%50)</a>
+  + <a href="https://www.udemy.com/course/seo-get-to-number1-in-google-search/">Comprehensive SEO Training (5%)</a>
+  + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (1%)</a>
+  + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (50%)</a>
   
 - 🖥️ I use these technologies:
   + Python, Flask, HTML, CSS, SQL
