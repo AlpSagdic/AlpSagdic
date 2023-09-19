@@ -13,13 +13,13 @@ I hope you have a good time.
   + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (100%)</a>
 
 - 🌱 I’m currently learning:
-  + <a href="https://www.udemy.com/course/seo-get-to-number1-in-google-search/">Comprehensive SEO Training (5%)</a>
-  + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (1%)</a>
+  + <a href="https://www.udemy.com/course/seo-get-to-number1-in-google-search/">Comprehensive SEO Training (10%)</a>
+  + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (25%)</a>
   + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (50%)</a>
   
 - 🖥️ I use these technologies:
   + Python, Flask, HTML, CSS, SQL
-  + And I'm currently learning these: JavaScript, MongoDB, Express, React, Node, Web3
+  + JavaScript, MongoDB, Express, React, Node
     
 - 🐦 <a href="https://twitter.com/AlpSgdc">You can reach me here (Twitter)</a>
 - 📝 <a href="https://www.linkedin.com/in/alp-eren-sağdıç-874987276/">Curriculum vitae (LinkedIn) (Currently not up to date)</a>
