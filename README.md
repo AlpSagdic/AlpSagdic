@@ -18,8 +18,8 @@ I hope you have a good time.
   + <a href="https://www.udemy.com/course/unitycourse/">Game Development with C# and Unity (50%)</a>
   
 - 🖥️ I use these technologies:
-  + Python, Flask, HTML, CSS, SQL, Sass
-  + JavaScript, MongoDB, Express, React, Node
+  Language: JavaScript, Python, HTML, CSS, Sass
+  Database: Relational Database(SQL, PostgreSQL), Non-Relational Database(MongoDB) 
     
 - 🐦 <a href="https://twitter.com/AlpSgdc">You can reach me here (Twitter)</a>
 - 📝 <a href="https://www.linkedin.com/in/alp-eren-sağdıç-874987276/">Curriculum vitae (LinkedIn) (Currently not up to date)</a>
