@@ -11,7 +11,7 @@ I hope you have a good time.
   + <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Web Development Bootcamp (100%)</a>
   + <a href="https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/">MERN Stack Web Development (100%)</a>
   + <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Real-Word Website with HTML and CSS (100%)</a>
-  + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (99%)</a>
+  + <a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS (100%)</a>
   
 - 🖥️ I use these technologies:
   + Language: JavaScript, Python, HTML, CSS, Sass
