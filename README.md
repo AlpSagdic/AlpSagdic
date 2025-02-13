@@ -6,7 +6,7 @@ I hope you have a good time.
 
 
 - ✅ Projects I have completed (Recent Projects):
-  + <a href="">Hope BioTech (coming soon)</a>
+  + <a href="https://alpsa.tech/projects/hope">Hope BioTech</a>
   + <a href="https://alpsa.tech/projects/alpsav2">AlpsaV2</a>
   + <a href="https://alpsa.tech/projects/chetask">Chetask</a>
   + <a href="https://alpsa.tech/projects/invelist">invelist</a>
