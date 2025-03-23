@@ -6,15 +6,15 @@ I hope you have a good time.
 
 
 - ✅ Projects I have completed (Recent Projects):
+  + <a href="https://alpsa.tech/projects/tourlink">TourLink</a>
   + <a href="https://alpsa.tech/projects/hope">Hope BioTech</a>
   + <a href="https://alpsa.tech/projects/alpsav2">AlpsaV2</a>
   + <a href="https://alpsa.tech/projects/chetask">Chetask</a>
   + <a href="https://alpsa.tech/projects/invelist">invelist</a>
-  + <a href="https://alpsa.tech/projects/alpsav1">AlpsaV1</a>
   + <a href="https://alpsa.tech/projects/reaktech">ReakTech</a>
   
 - 🖥️ I use these technologies:
-  + Language: JavaScript, Python, HTML, CSS, Sass
+  + Language: Swift, JavaScript, Python, TailwindCSS
   + Database: Relational Database(SQL, PostgreSQL), Non-Relational Database(MongoDB)
   + JS: Backend(NodeJS, ExpressJS), Frontend(React, React-Native)
   + Design: Canva, Figma (Beginning)
