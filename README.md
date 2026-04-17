@@ -6,11 +6,11 @@ I hope you have a good time.
 
 
 - ✅ Projects I have completed (Recent Projects):
+  + <a href="https://alpsa.tech/projects/caloride">Caloride</a>
   + <a href="https://alpsa.tech/projects/gustolist">GustoList</a>
   + <a href="https://alpsa.tech/projects/tourlink">TourLink</a>
   + <a href="https://alpsa.tech/projects/hopebio">Hope BioTech</a>
   + <a href="https://alpsa.tech/projects/alpsa">AlpsaV2</a>
-  + <a href="https://alpsa.tech/projects/invelist">invelist</a>
   + <a href="https://alpsa.tech/projects/reaktech">ReakTech</a>
   
 - 🖥️ I use these technologies:
@@ -19,5 +19,5 @@ I hope you have a good time.
   + JS: Backend(NodeJS, ExpressJS), Frontend(React)
   + Design: Canva, Figma (Beginning)
     
-- 📝 <a href="https://www.linkedin.com/in/alp-eren-sağdıç-874987276/">Curriculum vitae (LinkedIn) (Currently not up to date)</a>
+- 📝 <a href="https://www.linkedin.com/in/alp-eren-sağdıç-874987276/">Curriculum vitae (LinkedIn)</a>
 
