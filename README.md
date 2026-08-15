@@ -1,7 +1,7 @@
 # Alp Eren Sağdıç
 
 Software engineering student in İzmir, Turkey. I've founded two companies (one still 
-running) and shipped five mobile apps that have reached hundreds of users between them. 
+running) and shipped four mobile apps that have reached hundreds of users between them. 
 Every project below was built solo, front to back.
 
 ### Projects
@@ -28,4 +28,4 @@ decisions if you're evaluating my work.
 **Backend** — Node.js, Express, MongoDB, PostgreSQL  
 **Tools** — Figma, Blender
 
-📫 [LinkedIn](https://www.linkedin.com/in/alp-eren-sağdıç-874987276/) · [alpsa.tech](https://alpsa.tech)
+📫 [LinkedIn](https://www.linkedin.com/in/alpsagdic) · [alpsa.tech](https://alpsa.tech)
