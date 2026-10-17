@@ -8,7 +8,7 @@ Every project below was built solo, front to back.
 
 | Project | What it is | Built with | Year |
 |---|---|---|---|
-| **[Lugist](https://alpsa.tech/projects/lugist)** | Packing app with a memory engine: forget something once, it's on the list next trip | Swift 6, SwiftUI, MVVM, SwiftData, CloudKit, WeatherKit,  StoreKit, Node.js, Claude API | 2026 |
+| **[Lugist](https://alpsa.tech/projects/lugist)** | Packing app with a memory engine: forget something once, it's on the list next trip | Swift 6, SwiftUI, MVVM, SwiftData, CloudKit, WeatherKit,  StoreKit, App Intents, Apple Intelligence, Siri, Node.js, Claude API | 2026 |
 | **[Caloride](https://alpsa.tech/projects/caloride)** | Nutrition and workout tracking with food photo recognition | SwiftUI, Combine, HealthKit, StoreKit, Node.js, MongoDB | 2025 |
 | **[GustoList](https://alpsa.tech/projects/gustolist)** | Books and films you've read, watched, or want to | SwiftUI, SwiftData | 2025 |
 | **[TourLink](https://alpsa.tech/projects/tourlink)** | Daily tours near you, with live availability | SwiftUI, Socket.IO, Alamofire, Node.js, MongoDB | 2025 |
