@@ -23,7 +23,7 @@ decisions if you're evaluating my work.
 
 ### Stack
 
-**iOS** — Swift, SwiftUI, SwiftData, Combine, HealthKit, StoreKit  
+**iOS** — Swift, SwiftUI, SwiftData, CloudKit, HealthKit, StoreKit, App Intents, Apple Intelligence, Siri,  
 **Web & mobile** — React, React Native, Redux, Tailwind, Three.js, Framer Motion, i18n  
 **Backend** — Node.js, Express, MongoDB, PostgreSQL  
 **Tools** — Figma, Blender
