@@ -1,6 +1,6 @@
 # Alp Eren Sağdıç
 
-Software engineering student in İzmir, Turkey. I've founded two companies (one still 
+Software engineer in İzmir, Turkey. I've founded two companies (one still 
 running) and shipped four mobile apps that have reached hundreds of users between them. 
 Every project below was built solo, front to back.
 
@@ -23,7 +23,7 @@ decisions if you're evaluating my work.
 
 ### Stack
 
-**iOS** — Swift, SwiftUI, SwiftData, CloudKit, HealthKit, StoreKit, App Intents, Apple Intelligence, Siri,  
+**iOS** — Swift, SwiftUI, SwiftData, CloudKit, HealthKit, StoreKit, WidgetKit App Intents, Apple Intelligence, Siri,  
 **Web & mobile** — React, React Native, Redux, Tailwind, Three.js, Framer Motion, i18n  
 **Backend** — Node.js, Express, MongoDB, PostgreSQL  
 **Tools** — Figma, Blender
